@@ -1,4 +1,4 @@
-Template:
+###Template:
 
 *Date*
 -------------
@@ -22,6 +22,8 @@ To Do
 -------------
 Tracker
 -------------
+- Choose MySQL DBMS
+- Create the ER Table diagram for the DB
 
 -------------
 Achievements
@@ -34,3 +36,8 @@ Challenges
 -------------
 To Do
 -------------
+- Create a database
+- Build a frontend
+- Build a backend
+- Host web app
+- Deploy web app
