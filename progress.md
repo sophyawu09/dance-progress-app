@@ -36,6 +36,7 @@ Challenges
 -------------
 To Do
 -------------
+- Initialize the data directory
 - Create a database
 - Build a frontend
 - Build a backend
